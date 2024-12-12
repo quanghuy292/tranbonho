@@ -5,9 +5,14 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: #eeeeee;
+  background-color: hotpink;
   font-family: Arial, sans-serif;
   overflow: hidden;
+}
+
+.heart{
+  color: red;
+  animation: pulse 1s infinite;
 }
 
 h1 {
