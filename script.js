@@ -1,5 +1,5 @@
 const messages = [
-  "Nhớ nhớ nhớ cho đại ka tiền xăm con rồng!!!"
+  "Nhớ nhớ nhớ em!!!"
 ];
 
 function generateRandomNotifications() {
